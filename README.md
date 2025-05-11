@@ -1,6 +1,6 @@
-# Wpen - Web Pentest Toolkit 🔍
+# WPen - Web Pentest Toolkit 🔍
 
-Wpen is a powerful, beginner-friendly **web pentesting toolkit** packed with over 30+ tools for reconnaissance, scanning, exploitation, and analysis.  
+WPen is a powerful, beginner-friendly **web pentesting toolkit** packed with over 30+ tools for reconnaissance, scanning, exploitation, and analysis.  
 Perfect for bug bounty hunters, CTF players, security researchers, and developers learning web security.
 
 Author: Cr3zy  
