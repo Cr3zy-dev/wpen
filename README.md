@@ -25,7 +25,7 @@ Version: 1.0.0
 
 ## 🚀 Features
 
-✅ 30+ built-in tools (... and more coming soon!)
+✅ 30+ built-in tools (... and more coming soon!)  
 ✅ No API keys needed  
 ✅ Supports custom wordlists  
 ✅ Designed for automation and recon  
