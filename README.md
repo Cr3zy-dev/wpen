@@ -136,7 +136,8 @@ If you encounter an error like "externally-managed-environment" when installing 
 
 ## 📸 Screenshots
 
-> _(Add your terminal screenshots or GIFs here – e.g., how `01`, `05`, or `27` look in action.)_
+![image](https://github.com/user-attachments/assets/4eb7fa7f-55e8-4d96-9842-7f7938c34fb4)
+![image](https://github.com/user-attachments/assets/c0ed20fb-5562-4b1b-9d75-e306df220828)
 
 ---
 
